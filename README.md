@@ -1,4 +1,4 @@
-#What?
+# What?
 This repo acts as a sample of Jakarta EE code that shows how to deploy to Microsoft Azure through Docker and Azure Web Apps for Containers.
 
 #Steps
